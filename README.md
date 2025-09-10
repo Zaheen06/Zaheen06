@@ -8,15 +8,32 @@ I’m passionate about building impactful software solutions that solve real-wor
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql" alt="Languages" />
-  <br/>
-  <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,php" alt="Web Development" />
-  <br/>
-  <!-- Tools & DB -->
-  <img src="https://skillicons.dev/icons?i=mysql,prisma,git,github,postman" alt="Tools & Databases" />
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=c" width="30" /> C &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="30" /> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="30" /> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="30" /> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="30" /> SQL  
+</p>
+
+### 🌐 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="30" /> CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="30" /> PHP  
+</p>
+
+### 🗄️ Databases & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="30" /> Prisma ORM &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="30" /> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="30" /> GitHub &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="30" /> Postman  
 </p>
 
 ---
