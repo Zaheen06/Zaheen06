@@ -40,8 +40,8 @@ I’m passionate about building impactful software solutions that solve real-wor
 
 ## 📌 Featured Projects  
 
-- 🖨️ **[Print My Document](https://github.com/zaheen06/print-my-document)** – A document printing system with file upload, customization, and UPI-based payment.  
-- 📝 **[QuizNest](https://github.com/zaheen06/quiznest)** – AI-powered quiz creation and management platform.  
+- 🖨️ **Print My Document** – A document printing system with file upload, customization, and UPI-based payment.  
+- 📝 **QuizNest** – AI-powered quiz creation and management platform.  
 - 🧑‍🍳 **Personal Chef** – Personalized recipe and meal suggestion app.  
 - 🔔 **Contactless Doorbell** – Hardware project using IR sensors and buzzers.  
 - 🩸 **Blood Bank System** – Database-driven management system for blood donations and requests.  
