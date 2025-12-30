@@ -56,8 +56,7 @@ I’m passionate about building impactful software solutions that solve real-wor
 
 ## 📫 Let's Connect  
 - 🌐 Portfolio: [Portfolio]([http://registrationform.great-site.net](http://portfolio-zaheen.vercel.app))  
-- 💼 LinkedIn: [linkedin.com/in/zaheen06](https://linkedin.com/in/zaheen06)  
-- 🐦 Twitter/X: [twitter.com/zaheen06](https://twitter.com/zaheen06)  
+- 💼 LinkedIn: [linkedin.com/in/MohammadZaheen](https://linkedin.com/in/mohammad-zaheen)  
 - 📧 Email: **mdzaheenattari@gmail.com**  
 
 ---
