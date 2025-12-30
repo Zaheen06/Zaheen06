@@ -64,18 +64,18 @@ I’m passionate about building impactful software solutions that solve real-wor
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaheen06&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaheen06&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaheen06&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=zaheen06&theme=tokyonight&cache_seconds=86400" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheen06&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheen06&layout=compact&theme=tokyonight&cache_seconds=86400" height="160" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaheen06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zaheen06&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ⭐️ _“Code with purpose, build with passion, and never stop learning.”_
