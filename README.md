@@ -58,7 +58,7 @@ I’m passionate about building impactful software solutions that solve real-wor
 - 🌐 Portfolio: [registrationform.great-site.net](http://registrationform.great-site.net)  
 - 💼 LinkedIn: [linkedin.com/in/zaheen06](https://linkedin.com/in/zaheen06)  
 - 🐦 Twitter/X: [twitter.com/zaheen06](https://twitter.com/zaheen06)  
-- 📧 Email: **zaheen06@gmail.com**  
+- 📧 Email: **mdzaheenattari@gmail.com**  
 
 ---
 
