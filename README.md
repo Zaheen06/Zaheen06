@@ -11,11 +11,9 @@ I’m passionate about building impactful software solutions that solve real-wor
 ### 💻 Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=c" width="30" /> C &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="30" /> C++ &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" width="30" /> Java &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="30" /> JavaScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="30" /> SQL  
+  <img src="https://skillicons.dev/icons?i=javascript" width="30" /> JavaScript &nbsp;&nbsp;  
 </p>
 
 ### 🌐 Web Development  
